@@ -1,0 +1,116 @@
+
+
+Name: VintoHub
+Tagline: Thrift. Craft. Repeat.
+
+Purpose:
+A dedicated platform for small-scale entrepreneurs to sell thrifted items, handcrafted goods, and unique products without the limitations of Instagram or the high fees of platforms like Etsy.
+
+
+---
+
+Core Features:
+
+1. User Roles
+
+Buyers: Can browse, search, filter, add to cart, purchase items, leave reviews.
+
+Sellers: Can register, create a shop, list products, manage orders, track earnings.
+
+
+2. Product Categories
+
+Thrifted: Preloved fashion, books, decor, etc.
+
+Handcrafted: Handmade jewelry, crafts, gifts, soaps, etc.
+
+Artisanal: Paintings, home decor, custom items.
+
+Pre-order / Made-to-order: For sellers who make items after order confirmation.
+
+
+3. Authentication
+
+Login/signup with email
+
+Optional social login
+
+Separate dashboards for buyers and sellers
+
+
+4. Seller Dashboard
+
+Product management (upload, edit, delete)
+
+Order management
+
+Inventory control
+
+Analytics (views, sales, returns)
+
+Earnings report & payout tracking
+
+
+5. Buyer Features
+
+Smart filters (category, price, rating, popularity)
+
+Wishlist & cart
+
+Order history & tracking
+
+Ratings & reviews for sellers and products
+
+
+6. Trust & Quality
+
+Proof of Authenticity: Option to upload authenticity photos or certifications
+
+Verified Sellers Badge
+
+Return & Resell feature: Buyers can resell items post-purchase within VintoHub
+
+
+7. Communication
+
+Chat system between buyer and seller
+
+Email notifications (orders, shipping, queries)
+
+
+8. Admin Dashboard
+
+Approve/reject shops and listings
+
+Moderate reviews and reports
+
+Handle disputes and support
+
+
+9. Monetization Options
+
+Subscription for sellers (Basic/Pro)
+
+Commission on sales
+
+Featured listings (for sellers to promote their items)
+
+
+10. Design & Tech Stack
+
+Design: Purple primary theme, clean like Etsy
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js with Express
+
+Database: MongoDB with Mongoose
+
+Hosting: Replit
+
+Extras: Dotenv for managing secrets, CORS for API, modular file structure (routes, controllers, models)
+
+
+
+---
+
